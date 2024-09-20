@@ -70,7 +70,6 @@ This project focuses on analyzing and classifying Amazon Alexa reviews using Nat
    **Screenshots of EDA:**
    - [EDA Screenshot 1: Feedback Distribution](images/feedback.png)
    - [EDA Screenshot 2: Rating Distribution](images/feddback2.png)
-   - (Add more if applicable)
 
 2. **Model Training:**
    - The dataset is balanced using SMOTETomek to handle class imbalance.
@@ -81,3 +80,4 @@ This project focuses on analyzing and classifying Amazon Alexa reviews using Nat
    - [Confusion Matrix](images/confusionmatrix.png)
    - [ROC Curve](images/Roc.png)
    - [Actual vs Predicted](images/predicted.png)
+   - [Output](images/output.png)
