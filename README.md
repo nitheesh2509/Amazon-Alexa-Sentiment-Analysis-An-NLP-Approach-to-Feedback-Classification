@@ -75,9 +75,17 @@ This project focuses on analyzing and classifying Amazon Alexa reviews using Nat
    - The dataset is balanced using SMOTETomek to handle class imbalance.
    - Tokenization and text preprocessing were applied to transform the `verified_reviews` text into sequences.
    - A Random Forest Classifier was trained on the preprocessed data.
+   
+**Model Outputs:**
 
-   **Screenshots of Model Outputs:**
-   - ![Confusion Matrix](images/confusionmatrix.png)
-   - ![ROC Curve](images/Roc.png)
-   - ![Actual vs Predicted](images/predicted.png)
-   - ![Output](images/output.png)
+- **Confusion Matrix**  
+  ![Confusion Matrix](images/confusionmatrix.png)
+
+- **ROC Curve**  
+  ![ROC Curve](images/Roc.png)
+
+- **Actual vs Predicted**  
+  ![Actual vs Predicted](images/predicted.png)
+
+- **Output**  
+  ![Output](images/output.png)
